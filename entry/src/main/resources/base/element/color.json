@@ -1,0 +1,92 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#FAFAF9"
+    },
+    {
+      "name": "bg",
+      "value": "#FAFAF9"
+    },
+    {
+      "name": "card",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "cardBorder",
+      "value": "#E8E6E3"
+    },
+    {
+      "name": "track",
+      "value": "#EEEDEA"
+    },
+    {
+      "name": "textPrimary",
+      "value": "#1C1917"
+    },
+    {
+      "name": "textSecondary",
+      "value": "#78716C"
+    },
+    {
+      "name": "income",
+      "value": "#0E9F6E"
+    },
+    {
+      "name": "incomeDeep",
+      "value": "#0B8460"
+    },
+    {
+      "name": "expense",
+      "value": "#E11D48"
+    },
+    {
+      "name": "expenseDeep",
+      "value": "#BE123C"
+    },
+    {
+      "name": "chartLine",
+      "value": "#0EA5E9"
+    },
+    {
+      "name": "accent",
+      "value": "#0D9488"
+    },
+    {
+      "name": "accentDeep",
+      "value": "#0F766E"
+    },
+    {
+      "name": "onAccent",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "pillBg",
+      "value": "#0F1C1917"
+    },
+    {
+      "name": "heroStart",
+      "value": "#0F766E"
+    },
+    {
+      "name": "heroEnd",
+      "value": "#0D9488"
+    },
+    {
+      "name": "incomeCardStart",
+      "value": "#E4F4EC"
+    },
+    {
+      "name": "incomeCardEnd",
+      "value": "#D7EEE2"
+    },
+    {
+      "name": "expenseCardStart",
+      "value": "#FCE7EB"
+    },
+    {
+      "name": "expenseCardEnd",
+      "value": "#F9DDE2"
+    }
+  ]
+}

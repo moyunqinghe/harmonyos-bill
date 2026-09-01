@@ -1,0 +1,8 @@
+{
+  "modelVersion": "6.0.0",
+  "description": "A minimal HarmonyOS demo app.",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.19"
+  }
+}
