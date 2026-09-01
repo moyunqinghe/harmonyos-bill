@@ -7,8 +7,22 @@
 - **快速记账**：一键记录收入 / 支出，支持金额与备注
 - **本月概览**：首页彩虹渐变卡片实时展示本月结余、收入与支出总额（带数字滚动动画）
 - **账单记录**：按日期浏览全部账单，支持删除
+- **导出 CSV**：一键导出全部账单为 CSV 文件（带 BOM，Excel 直接打开不乱码）
 - **统计分析**：图表化查看收支构成，看懂钱花在哪
 - **本地存储**：基于关系型数据库（relationalStore / RDB），数据完全保存在设备本地，无需联网
+
+## 应用截图
+
+<p align="center">
+  <img src="img/首页.jpg" width="30%" alt="首页" />
+  <img src="img/收入.jpg" width="30%" alt="记收入" />
+  <img src="img/支出.jpg" width="30%" alt="记支出" />
+</p>
+<p align="center">
+  <img src="img/账单记录.jpg" width="30%" alt="账单记录" />
+  <img src="img/统计分析.jpg" width="30%" alt="统计分析" />
+  <img src="img/数据导出.jpg" width="30%" alt="数据导出" />
+</p>
 
 ## 技术栈
 
