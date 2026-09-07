@@ -27,3 +27,29 @@ oh_modules/
 
 # 本地工具
 .ui-craft/
+.repo_memory/
+
+# 本地代理、技能与工作流配置
+.agents/
+.claude/
+AGENTS.md
+skills-lock.json
+
+# 私钥、环境变量、签名包与账本导出
+*.pem
+*.key
+*.jks
+*.hap
+*.app
+.env
+.env.*
+!.env.example
+*.db
+*.db-*
+*.sqlite
+*.sqlite3
+*.csv
+*.pdf
+
+# 旧截图仅保留本地，公开文档使用独立测试账本截图
+/img/*.jpg

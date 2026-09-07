@@ -3,6 +3,9 @@
     "pages/Index",
     "pages/RecordEditPage",
     "pages/RecordsPage",
-    "pages/StatsPage"
+    "pages/StatsPage",
+    "pages/ReimbursementPage",
+    "pages/ReportPage",
+    "pages/LaunchPage"
   ]
 }
